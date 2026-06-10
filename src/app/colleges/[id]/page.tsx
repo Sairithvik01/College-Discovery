@@ -1,5 +1,16 @@
 import type { Metadata } from "next";
 import { CollegeDetailPage } from "@/components/features/detail/college-detail-page";
+import { mockColleges } from "@/lib/mockData";
+
+/**
+ * Pre-generate all college detail pages at build time.
+ * Required for `output: 'export'` (GitHub Pages static deployment).
+ */
+export function generateStaticParams() {
+  return mockColleges.map((college) => ({
+    id: college.slug,
+  }));
+}
 
 /**
  * Dynamic route: /colleges/[id]
