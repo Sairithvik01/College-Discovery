@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[39756,["/College-Discovery/_next/static/chunks/3qle4prtwt0qn.js","/College-Discovery/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+3:I[37457,["/College-Discovery/_next/static/chunks/3qle4prtwt0qn.js","/College-Discovery/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:[]
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"2vFNMPOJXGL5wB5vd1huf"}

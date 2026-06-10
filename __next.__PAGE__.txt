@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[88863,["/College-Discovery/_next/static/chunks/3qle4prtwt0qn.js","/College-Discovery/_next/static/chunks/14mrh2-p_w84d.js","/College-Discovery/_next/static/chunks/2pl28mgn3911d.js","/College-Discovery/_next/static/chunks/034wlnywjmnkf.js"],"CollegeListingPage"]
+3:I[97367,["/College-Discovery/_next/static/chunks/3qle4prtwt0qn.js","/College-Discovery/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/College-Discovery/_next/static/chunks/2pl28mgn3911d.js","async":true}],["$","script","script-1",{"src":"/College-Discovery/_next/static/chunks/034wlnywjmnkf.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2vFNMPOJXGL5wB5vd1huf"}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[87876,["/College-Discovery/_next/static/chunks/3qle4prtwt0qn.js","/College-Discovery/_next/static/chunks/14mrh2-p_w84d.js","/College-Discovery/_next/static/chunks/1b5zrgsdl8fmw.js","/College-Discovery/_next/static/chunks/31hemj7cf1zw7.js"],"CollegeDetailPage"]
+3:I[97367,["/College-Discovery/_next/static/chunks/3qle4prtwt0qn.js","/College-Discovery/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"collegeId":"iim-ahmedabad"}],[["$","script","script-0",{"src":"/College-Discovery/_next/static/chunks/1b5zrgsdl8fmw.js","async":true}],["$","script","script-1",{"src":"/College-Discovery/_next/static/chunks/31hemj7cf1zw7.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2vFNMPOJXGL5wB5vd1huf"}
+5:null
