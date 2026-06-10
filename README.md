@@ -56,6 +56,25 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
+## 🌐 Deploying to GitHub Pages
+
+This project is configured for GitHub Pages deployment from the `main` branch.
+
+1. Push the repository to `https://github.com/Sairithvik01/College-Discovery`
+2. In GitHub, open **Settings** → **Pages**
+3. Set **Source** to **GitHub Actions**
+4. Push to `main` or run the **Deploy to GitHub Pages** workflow manually
+
+The live site will be available at:
+
+`https://Sairithvik01.github.io/College-Discovery/`
+
+Notes:
+
+- `public/.nojekyll` is required so GitHub Pages serves the exported Next.js assets in `_next/`
+- `trailingSlash: true` keeps route URLs compatible with GitHub Pages folder hosting
+- If you still see the GitHub Pages 404 screen, the usual causes are: the workflow has not finished yet, the repository Pages source is not set to **GitHub Actions**, or the URL is missing the `/College-Discovery/` path segment
+
 ### Available Scripts
 
 | Command | Description |
